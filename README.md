@@ -1,8 +1,4 @@
-# Whatsapp-bot-base
-
-Akira-bot 
-
-# Instalação‼️
+# Comandos para instalação Akira bot
 
 $ pkg install git
 
@@ -10,11 +6,9 @@ $ git clone https://github.com/Tobizin2/unvicotor
 
 $ cd Akira-bot
 
-$ sh akira.sh
+$ sh akira-bot
 
-# Dicas📍
-
-Use o pm2 para seu bot não cair
+#Para o bot não cair 
 
 Comandos!
 
@@ -32,4 +26,4 @@ pm2 update
 
 pm2 monit
 
-Copyright © Skiller Ofc
+Copyright © tio tobirama
