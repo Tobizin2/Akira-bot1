@@ -1,16 +1,16 @@
 # Whatsapp-bot-base
 
-Uma base para criação de bots com base no baileys enviando botão,lista,texto,imagem e outras midias em geral
+Akira-bot 
 
 # Instalação‼️
 
 $ pkg install git
 
-$ git clone https://github.com/UHSKILLER/Whatsapp-bot-base
+$ git clone https://github.com/Tobizin2/unvicotor
 
-$ cd Whatsapp-bot-base
+$ cd Akira-bot
 
-$ node index.js
+$ sh akira.sh
 
 # Dicas📍
 
